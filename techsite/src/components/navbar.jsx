@@ -38,7 +38,7 @@ function NavBar() {
   }, [menuOpen]);
 
   return (
-<nav className="items-center self-center flex w-full px-4 sm:px-8 md:px-16 lg:px-20 justify-between gap-5 mt-7 max-md:max-w-full max-md:flex-wrap">
+<nav className="items-center self-center flex w-full px-4 sm:px-8 md:px-15 lg:px-20 justify-between gap-5 mt-7 max-md:max-w-full max-md:flex-wrap">
   <img
     loading="lazy"
     src="https://cdn.builder.io/api/v1/image/assets/TEMP/9c352fc708d8470508d6873fbfba462c3774bd998bbbb435d7868c698f012433?apiKey=1bcc27728ab244268fc16ff60580b199&"
